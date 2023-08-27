@@ -1,3 +1,6 @@
-h1 {
-    color: green;
+.navbar {
+    background: rgb(51, 92, 113);
+}
+a {
+    color: aliceblue;
 }
