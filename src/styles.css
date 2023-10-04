@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+
+    background-image: url('Imagens/full-stack-soft-skills.jpg');
+    background-size: cover; /* Isso faz a imagem cobrir todo o corpo */
+    background-repeat: no-repeat; /* Evita que a imagem seja repetida */
+  
+
+
+}

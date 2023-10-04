@@ -1,3 +1,45 @@
 body {
-    background-color: gray;
+    font-family: Arial, sans-serif;
+    background-color: #b22711; /* Azul */
+    color: #fff; /* Texto branco */
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.9); /* Branco com transparência */
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #ff0000; /* Azul */
+}
+
+p {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0000; /* Azul */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #962422; /* Azul mais escuro */
 }
